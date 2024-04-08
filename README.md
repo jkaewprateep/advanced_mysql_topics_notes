@@ -86,6 +86,8 @@ META Advanced MySQL Topics - notes
 ## 🧸💬 Database procedure
 
 🧸💬 This had tricks known from a famous application about range selection. </br>
+⚽ 👤💬 ```IT support helpdesk``` can help manage your requirements by creating SQL procedures and only setting for ```input variables``` for system reports and evaluation reports that you can access from the ```application customer page in HTML format```. </br>
+🐑💬 ➰ The reason for the application to use only ```procedure``` is working with web environments and accessibility, copied running communication messages of ```database communication```, and ```API communications``` cannot repeat or create usage from ```random replay messages``` . </br>
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_procedure_2.png"> </br>
