@@ -18,6 +18,7 @@ META Advanced MySQL Topics - notes
 👤💬 All applications are ```encapsulated with power data adaptors``` and ```secured application settings``` for dataset communication string and import / export tools. </br>
 
 🐑💬 ➰ In project challenges ```copied of dataset``` or ```application settings``` is ```prohibited``` and they are seal with application secured communication protocols when somebody try to copied of the dataset except from report dataset using at client they cannot read or they can connect with custom connection string. </br>
+🦭💬 For DotNet application there is ```encrypted connection string``` and ```application settings``` option for Java and SQL they use ```data integration services``` and ```data integration services``` report you need to open on the same server or application allowed in the solution. </br>
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_UNION.png"> </br>
