@@ -76,6 +76,7 @@ META Advanced MySQL Topics - notes
 
 👧💬 🎈 Apply with ```substring function``` . </br>
 👧💬 🎈 Sample of search for ```SUBSTRING( ReverseFullName, 1, 4 )``` the ```possible_keys``` not display with string manipulation functions . </br>
+🐑💬 ➰ You found a bug again hahaha!+++ this is the old bugs for string manipulation, open a case we can solve. </br>
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/databasetable_indexes_2.png"> </br>
