@@ -54,6 +54,8 @@ META Advanced MySQL Topics - notes
 
 ## 🧸💬 Database table temporary table view
 
+🐨🎁🎵🎶 Important when working with the View temporary table, all of the outcomes of the data to the population in the view table resultset should arrive at the same time because the final result with store and ready once all fields are fulfilled with data from selection criteria are some methods for delays messages communication and data population we had discussed. </br>
+
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_view.png"> </br>
     <b> Database table temporary table view - from course assigments </b> </br>
