@@ -27,6 +27,8 @@ META Advanced MySQL Topics - notes
 
 ## 🧸💬 Database table group by and aggregate function
 
+🐐💬 Aggregation function had dedicated right from detail population in some report because of controls of data populate is at ```client level``` and ```server level``` once query, some users ```attached results``` from ```aggregation function``` and ```store procedure``` without validation in the detail area. </br> 
+
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_groupaggregate_function_2.png"> </br>
     <b> Database table select - from course assigments </b> </br>
