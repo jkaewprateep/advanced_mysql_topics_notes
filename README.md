@@ -17,6 +17,8 @@ META Advanced MySQL Topics - notes
 🦭💬 They support ```data adaptors``` and ```dataset visualization tools``` but ```manual query import``` and ```procedure are possible```, implementation with procedure the programmers need to ```seal of application method with online modification ability```. </br>
 👤💬 All applications are ```encapsulated with power data adaptors``` and ```secured application settings``` for dataset communication string and import / export tools. </br>
 
+🐑💬 ➰ In project challenges ```copied of dataset``` or ```application settings``` is ```prohibited``` and they are seal with application secured communication protocols when somebody try to copied of the dataset except from report dataset using at client they cannot read or they can connect with custom connection string. </br>
+
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_UNION.png"> </br>
     <b> Database table select - from course assigments </b> </br>
