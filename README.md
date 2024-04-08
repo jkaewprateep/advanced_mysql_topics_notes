@@ -31,6 +31,7 @@ META Advanced MySQL Topics - notes
 </br> 
 👧💬 🎈 There is a ```tricks for this aggregation``` because of group by method need to access for all of data population for the target column fields, this is select ```hacks in MySQL``` and it is ```not actually hacking``` but it is selection method for working with data field and ```called by some users``` . </br>
 👧💬 🎈 At the line ```GROUP BY YEAR(A.Date), CONVERT(YEAR(Date), CHAR)) AS C``` is where memory populate of data will populate into the column ``` CONCAT(C.Cost, " (", C.Year, " ) ") AS "Total sum of P2 Product" ``` .</br>
+👧💬 🎈 At the line ```CONVERT(SUM(A.Cost), CHAR) AS "Cost", CONVERT(YEAR(B.Date), CHAR) AS "Year"``` is the actual value, you can use INNER join to prevent of create ```NULL``` values population. </br> 
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_groupaggregate_function_2.png"> </br>
