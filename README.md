@@ -98,6 +98,8 @@ META Advanced MySQL Topics - notes
 
 ## 🧸💬 Database prepared statement
 
+🧸💬  In database memory for statistics server query is ```prepare statement``` when ```substitution technique``` developed to ```stage message communications``` and ```dot notation``` filters for ```API development software``` .</br>
+
 🧸💬 This had tricks known from many applications and used as IDE for data communications. </br>
 
 <p align="center" width="100%">
