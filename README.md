@@ -14,6 +14,13 @@ META Advanced MySQL Topics - notes
     <b> Database table show columns - from course assigments </b> </br>
 </p>
 
+## 🧸💬 Database table modify columns
+
+<p align="center" width="100%">
+    <img width="55%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_modifytable.png"> </br>
+    <b> Database table modify columns - from course assigments </b> </br>
+</p>
+
 ## 🧸💬 Database table select
 
 <p align="center" width="100%">
