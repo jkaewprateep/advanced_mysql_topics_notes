@@ -66,6 +66,7 @@ META Advanced MySQL Topics - notes
 ## 🧸💬 Database table indexes
 
 🧸💬 This had tricks known from a famous application about reversed column order sorting. </br>
+👧💬 🎈 In a famous application of name and data fields as string sorting, reverse order, and data column substring can index and boost database query performance. Stored procedure import and update help about communications delay message when update results from client and sometimes application IDE help because they had internal objects Queue management .</br>
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/databasetable_indexes.png"> </br>
