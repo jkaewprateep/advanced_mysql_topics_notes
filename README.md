@@ -102,6 +102,7 @@ META Advanced MySQL Topics - notes
 </br>
 🧸💬 This had tricks known from many applications and was used as IDE for data communications. </br>
 🐯💬 Application communication in ```IT networks``` does not have a method description but you can read the ```mapping method description``` with ```WireSharks``` and ```complied program components DLL``` . </br>
+🐑💬 ➰ You need to have correct versions because of the WireSharks ```does not verify versions``` but that is an idea, and the messages are composed by the application components DLL ```short message``` or ```description message``` depending on the application developer. </br>
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_preparestatement.png"> </br>
