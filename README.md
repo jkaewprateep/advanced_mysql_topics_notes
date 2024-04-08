@@ -112,7 +112,8 @@ META Advanced MySQL Topics - notes
 ## 🧸💬 Database function
 
 🧸💬 This had tricks for column minar or worksheet columns organization, in some applications dataset and resultset display is easier than selection </br>
-⚽ 👤 🐾...🐾🐾 Application development by dataset adaptor with data visualization tools, this tool launched once Dot.Net application challenges of lead technology for report and evaluation at the time but that is not blocked of technology or perspective but horizontal views. ```🥺💬 การแข่งขันผมเข้าใจ ``` </br>
+⚽ 👤 🐾...🐾🐾 Application development by dataset adaptor with data visualization tools, this tool launched once ```Dot.Net``` application ```challenges of lead technology``` for report and evaluation at the time but that is not blocked of technology or ```perspective``` but ```horizontal views```. ```🥺💬 การแข่งขันผมเข้าใจ ``` </br>
+⚽ 👤 🐾...🐾🐾 Yes even they ```campaign report features horizontal perspective views``` but not blocked technology, applications can use a centralized database and management systems. </br>
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_functions.png"> </br>
