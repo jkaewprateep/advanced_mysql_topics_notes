@@ -120,6 +120,8 @@ META Advanced MySQL Topics - notes
     <b> Database function - from course assigments </b> </br>
 </p>
 
+🦭💬 External variables, the application does not response to ```local execution MySql database commands``` and they build ```a wrapper``` for store procedure execution to prevent ```recall function problems``` . </br>
+
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_functions_2.png"> </br>
     <b> Database function - from course assigments </b> </br>
