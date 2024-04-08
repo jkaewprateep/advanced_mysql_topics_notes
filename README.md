@@ -79,5 +79,13 @@ META Advanced MySQL Topics - notes
     <b> Database procedure - from course assigments </b> </br>
 </p>
 
+## 🧸💬 Database prepared statement
+
+🧸💬 This had tricks known from many applications and used as IDE for data communications. </br>
+
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_preparestatement.png"> </br>
+    <b> Database prepared statement - from course assigments </b> </br>
+</p>
 
 
