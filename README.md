@@ -121,6 +121,7 @@ META Advanced MySQL Topics - notes
 </p>
 
 🦭💬 External variables, the application does not response to ```local execution MySql database commands``` and they build ```a wrapper``` for store procedure execution to prevent ```recall function problems``` . </br>
+🐐💬 I am monitoring ```IT networks``` for ```select``` and ```update``` commands .</br>
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_functions_2.png"> </br>
