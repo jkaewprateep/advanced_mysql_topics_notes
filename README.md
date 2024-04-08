@@ -10,7 +10,9 @@ META Advanced MySQL Topics - notes
 ## 🧸💬 Database table select and union
 
 🧸💬 Database selection filter is the beginning of the process to find out possibilities for data population in reports and evaluation methods, the next process of filtering, aggregation, remarking, transforming, and making use of the populated data will be easier with correct preferred formats. </br>
-🐑💬 ➰ In basic report tools, they separate of details area, aggregation area, and aside area and this concept helps with data population and dataset organization. </br>
+🐑💬 ➰ In basic report tools, they separate ```details area```, ```aggregation area```, and ```aside area``` and this concept helps with data population and dataset organization. </br>
+
+🐣💬 ```SAP!!!``` ```ERP!!!``` 🧸💬 ```Template report``` and ```business report``` they are commercials name. 👤💬 ```Jasper``` 👤💬 ```Avaya Cognos``` 👤💬‼️ ```IBM``` 👤💬 ```Google Visulaization``` ... </br>
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_UNION.png"> </br>
