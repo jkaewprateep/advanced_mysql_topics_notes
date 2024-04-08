@@ -99,8 +99,9 @@ META Advanced MySQL Topics - notes
 ## 🧸💬 Database prepared statement
 
 🧸💬  In database memory for statistics server query is ```prepare statement``` when ```substitution technique``` developed to ```stage message communications``` and ```dot notation``` filters for ```API development software``` .</br>
-
-🧸💬 This had tricks known from many applications and used as IDE for data communications. </br>
+</br>
+🧸💬 This had tricks known from many applications and was used as IDE for data communications. </br>
+🐯💬 Application communication in ```IT networks``` does not have a method description but you can read the ```mapping method description``` with ```WireSharks``` and ```complied program components DLL``` . </br>
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_preparestatement.png"> </br>
