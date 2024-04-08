@@ -128,10 +128,16 @@ META Advanced MySQL Topics - notes
     <b> Database function - from course assigments </b> </br>
 </p>
 
+🦭💬 Validation function, the application allowed to validation function from the system by ```system procedue call``` as IT database solution, and execution will stored into database with ```request parameters``` .</br>
+🐐💬 ```Screen copying``` or text has ```remark with specified policy``` or ```information remarks policy``` .</br>
+
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_functionreturn_validation.png"> </br>
     <b> Database function - from course assigments </b> </br>
 </p>
+
+🦭💬 Simple aggregation function, The ```aggregation function``` will control and ```perform on the server``` means you need to have authorized and correct steps to have requirements data. </br>
+🐐💬 You can use ```validate data function``` but sometimes we replace result with ```boo~~``` .</br>
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_averagefunction.png"> </br>
