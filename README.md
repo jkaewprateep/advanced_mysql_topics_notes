@@ -40,7 +40,7 @@ META Advanced MySQL Topics - notes
 
 ## 🧸💬 Database table join
 
-💃( 👩‍🏫 )💬 There are multiple types of systems and report evaluation, internal system reports, interactions and contact, application reports, user and agent statistics, initiator reports, prediction reports, and surveys. The databases and data tables relationships are designed for various types of database contains and the first step is to select the existing report and find the report categorize the events or statistics created at which level of the report because of interaction contact report initial at gateway and application report can start at users. This method works in many databases and is used in data validation for system integration reports between 2 or among solutions. </br> 
+💃( 👩‍🏫 )💬 There are multiple types of ```systems and report evaluation```, ```internal system reports```, ```interactions and contact```, ```application reports```, ```user and agent statistics```, ```initiator networks reports```, ```prediction reports```, and ```surveys```. The databases and data tables relationships are designed for ```various types of database constraints``` and the first step is to select the existing report and ```find the report categorize``` the events or statistics created at which level of the report because of interaction contact report initial at ```gateway and application report``` can start at users. This method works in many databases and is used in data validation for system integration reports between 2 or among solutions. </br> 
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/databasetable_join_2.png"> </br>
