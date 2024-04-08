@@ -28,6 +28,23 @@ META Advanced MySQL Topics - notes
     <b> Database table select - from course assigments </b> </br>
 </p>
 
+## 🧸💬 Database table group by and aggregate function
+
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_groupby.png"> </br>
+    <b> Database table select - from course assigments </b> </br>
+</p>
+
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_groupaggregate_function.png"> </br>
+    <b> Database table select - from course assigments </b> </br>
+</p>
+
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_groupaggregate_function_2.png"> </br>
+    <b> Database table select - from course assigments </b> </br>
+</p>
+
 ## 🧸💬 Database table join
 
 <p align="center" width="100%">
