@@ -14,6 +14,8 @@ META Advanced MySQL Topics - notes
 
 🐣💬 ```SAP!!!``` ```ERP!!!``` 🧸💬 ```Template report``` and ```business report``` they are commercials name. 👤💬 ```Jasper``` 👤💬 ```Avaya Cognos``` 👤💬‼️ ```IBM``` 👤💬 ```Google Visulaization``` ... </br>
 
+🦭💬 They support ```data adaptors``` and ```dataset visualization tools``` but ```manual query import``` and ```procedure are possible```, implementation with procedure the programmers need to ```seal of application method with online modification ability```. </br>
+
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_UNION.png"> </br>
     <b> Database table select - from course assigments </b> </br>
