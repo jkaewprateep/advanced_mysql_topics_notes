@@ -44,7 +44,7 @@ META Advanced MySQL Topics - notes
 </br> 
 🦭💬 That is a trick when validating the results set someone missing this step may have a number of data populations in the same list number but not in order. ```🥺💬 ผมตรวจคำตอบจริงจริงนะ``` </br>
 </br> 
-🦤💬 There is a technique of ```dividing table resultset``` for ```delays messages communications```, data set can be joined with ```temporary table views``` or ```temporary table``` by the database temporary and populate of data with detail after they arrived. </br>
+🦤💬 There is a technique of ```dividing table resultset``` for ```delays messages communications```, data set can be joined with ```temporary table views``` or ```temporary table``` by the database temporary and populate of data with detail after they arrived. Someone may use stored procedure, data adaptors ability or results set from LINQ or data mapping. </br>
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/databasetable_join_2.png"> </br>
