@@ -31,3 +31,15 @@ META Advanced MySQL Topics - notes
     <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_view_2.png"> </br>
     <b> Database table temporary table view - from course assigments </b> </br>
 </p>
+
+## 🧸💬 Database table indexes
+
+🧸💬 This had tricked known from a famous application about reversed column order sorting. </br>
+
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/databasetable_indexes.png"> </br>
+    <b> Database table indexes - from course assigments </b> </br>
+</p>
+
+
+
