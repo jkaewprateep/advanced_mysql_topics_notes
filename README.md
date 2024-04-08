@@ -28,6 +28,8 @@ META Advanced MySQL Topics - notes
 ## 🧸💬 Database table group by and aggregate function
 
 🐐💬 Aggregation function had dedicated right from detail population in some report because of controls of data populate is at ```client level``` and ```server level``` once query, some users ```attached results``` from ```aggregation function``` and ```store procedure``` without validation in the detail area. </br> 
+</br> 
+👧💬 🎈 There is a tricks for this aggregation because of group by method need to access for all of data population for the target column fields, this is select hacks in MySQL and it is not actually hacking but it is selection method for working with data field and called by some users. </br>
 
 <p align="center" width="100%">
     <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_groupaggregate_function_2.png"> </br>
