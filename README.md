@@ -112,4 +112,21 @@ META Advanced MySQL Topics - notes
     <b> Database prepared statement - from course assigments </b> </br>
 </p>
 
+## 🧸💬 Database function
 
+🧸💬 This had tricks for column minar or worksheet columns organization, in some applications dataset and resultset display is easier than selection </br>
+
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_functions.png"> </br>
+    <b> Database function - from course assigments </b> </br>
+</p>
+
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_functions_2.png"> </br>
+    <b> Database function - from course assigments </b> </br>
+</p>
+
+<p align="center" width="100%">
+    <img width="100%" src="https://github.com/jkaewprateep/advanced_mysql_topics_notes/blob/main/database_functionreturn_validation.png"> </br>
+    <b> Database function - from course assigments </b> </br>
+</p>
